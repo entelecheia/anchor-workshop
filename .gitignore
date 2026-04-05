@@ -1,0 +1,21 @@
+.DS_Store
+*.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# 개인정보 포함 가능 파일
+*.xlsx
+*.xls
+*.hwp
+*.pdf
+
+# 임시 파일
+*.tmp
+*.bak
+~$*
+
+# 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
