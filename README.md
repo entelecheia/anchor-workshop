@@ -10,7 +10,7 @@
 | 대상 | RISE(앵커) 사업단 전 교직원 ~30명 (5사업본부+1운영지원본부) |
 | 기간 | 2026년 5월 5일 ~ 6월 13일 (6주) |
 | 방식 | 온라인 사전학습 + 오프라인 세션 + 경진대회 |
-| 도구 | Slack (anchor-chu), Google Workspace (@jeju.ai), Claude |
+| 도구 | 업무 메신저 (Slack 또는 Flow), MS Office 365, Claude |
 | 장소 | RISE 사업단 회의실 |
 | 주관 | RISE 운영지원본부 (이영준 총괄) |
 
@@ -29,11 +29,11 @@
 
 | 세션 | 날짜 | 주제 |
 |------|------|------|
-| Session 1 | 5/13(화) | 환경 설정 + Slack + Google Workspace |
+| Session 1 | 5/13(화) | 환경 설정 + 업무 메신저 + MS Office 365 |
 | Session 2 | 5/15(목) | Claude Desktop 기초 + 프롬프트 입문 |
 | Session 3 | 5/20(화) | 프롬프트 심화 + HWP 공문서 처리 |
-| Session 4 | 5/22(목) | 데이터 분석 + 발표자료 작성 + Claude Code |
-| Session 5 | 5/27(화) | 자동화 워크플로 + NotebookLM 연동 |
+| Session 4 | 5/22(목) | 데이터 분석 + 발표자료 + 행정 에이전트 소개 |
+| Session 5 | 5/27(화) | 행정 에이전트 실습 + 업무 자동화 워크플로 |
 | Session 6 | 5/29(목) | 종합 실습 + "AI로 바꾼 내 업무" 발표 + 경진대회 공고 |
 
 ## 경진대회 안내
@@ -43,7 +43,7 @@
 | 카테고리 | 설명 |
 |----------|------|
 | A. 업무자동화 | 반복 업무를 AI로 자동화한 워크플로 |
-| B. AI 어시스턴트 | Claude Project, 스킬, 에이전트 개발 |
+| B. 행정 에이전트 | 프롬프트+MCP 기반 행정 업무 에이전트 |
 | C. 협업혁신 | Slack/Google Workspace 기반 팀 워크플로 개선 |
 | D. 자유주제 | 위 카테고리 외 창의적 AI 활용 |
 
@@ -75,6 +75,6 @@ anchor-workshop/
 
 ## 문의
 
-- Slack: `#anchor-workshop` 채널 (anchor-chu.slack.com)
+- 업무 메신저: `#anchor-workshop` 채널
 - 담당: 이영준 교수 (hello@jeju.ai)
 - 운영지원: RISE 운영지원본부 (문현주)
